@@ -1,0 +1,38 @@
+
+body{
+    background: #E9EBEE;
+}
+.navbar.navbar-default{
+    height: 70px;
+}
+.navbar.navbar-default .container{
+    margin-top: 10px;
+}
+.navbar.navbar-default .navbar-collapse ul li a{
+    color: white;
+}
+.navbar.navbar-default .navbar-header a{
+    color: white;
+}
+.auth_title{
+    margin-bottom: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.auth_btn{
+    background: #61984D;
+    color: white;
+    width: 200px;
+    margin-top: 30px;
+}
+.group_create_btn{
+    padding: 5px 20px;
+    background: #61984D;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.group_create_btn:hover{
+    text-decoration: none;
+    color: white;
+}
